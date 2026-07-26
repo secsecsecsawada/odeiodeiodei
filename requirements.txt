@@ -1,3 +1,0 @@
-flask
-frask-sqlalchemy
-pymssql
