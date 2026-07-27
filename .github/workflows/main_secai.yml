@@ -63,4 +63,4 @@ jobs:
         with:
           app-name: 'secai'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_EA5B486D017F4C2B97884D8E8DB42687 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_8429009E8F4A48809824EBA69EE761F7 }}
